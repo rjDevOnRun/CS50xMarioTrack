@@ -1,2 +1,2 @@
-# CS50xMarioTrack
-My implementation of CS50 Mario Track from Week-8 (2019)
+# CS50xMario - Game Track
+Mario from CS50x - Game Track - Week-8 (2019) (LOVE2D-Lua)
